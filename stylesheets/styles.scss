@@ -34,6 +34,11 @@ ul, ol {
   margin: 0;
 }
 
+hr {
+  margin: 40px 0;
+  border-color: $color-blueberry-light;
+}
+
 @import "components/splash-screen";
 @import "components/footer";
 @import "components/header";
